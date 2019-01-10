@@ -1,6 +1,0 @@
-/Users/ishwor/ASP/firstApp/bin/firstApp.dll
-/Users/ishwor/ASP/firstApp/bin/firstApp.pdb
-/Users/ishwor/ASP/firstApp/obj/Debug/firstApp.csprojAssemblyReference.cache
-/Users/ishwor/ASP/firstApp/obj/Debug/firstApp.csproj.CoreCompileInputs.cache
-/Users/ishwor/ASP/firstApp/obj/Debug/firstApp.dll
-/Users/ishwor/ASP/firstApp/obj/Debug/firstApp.pdb
